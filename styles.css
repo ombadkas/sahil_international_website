@@ -196,7 +196,7 @@ body {
   justify-content: space-around;
   gap: 2rem;
   padding: 60px 20px;
-  background-color: #eaa55b;
+  background:linear-gradient(to right, #eaa55b, #e7b986);;
 }
 
 .mission, .vision {
@@ -249,7 +249,7 @@ body {
 
 /* CONTACT */
 .contact {
-  background-color: #eaa55b;
+  background: linear-gradient(to right, #eaa55b, #e7b986);;
   padding: 50px 10px;
   color: white;
   text-align: center;
@@ -366,7 +366,7 @@ body {
   }
 }
 .what-we-offer {
-  background-color: #eaa55b;
+  background: linear-gradient(to right, #eaa55b, #e7b986);;
   padding: 60px 20px;
   text-align: center;
 }
